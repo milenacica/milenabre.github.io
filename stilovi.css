@@ -1,0 +1,189 @@
+body{
+    background-color: white;
+    overflow: hidden;
+    margin: 0;
+}
+
+#gif {
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#naslov {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: black;
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+img {
+	width: 400px;
+}
+
+#ne {
+    font-size: xx-small;
+}
+
+/*pesme*/
+
+body{
+    background-color: white;
+    overflow: hidden;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: black;
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+ul {
+    font-family: Arial, sans-serif;
+    list-style-type: none ;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 171, 171);
+}
+
+#nazad {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+#izvolte {
+    margin-top: 5% ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*dorucak*/
+
+body{
+    background-color: white;
+    overflow: hidden;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 171, 171);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#pesma {
+    text-align: center;
+  border: 4px solid rgb(255, 171, 171);
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h5 {
+    text-align: center;
+}
+
+/*nokat*/
+
+body{
+    background-color: white;
+    overflow: hidden;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 171, 171);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#pesma {
+    text-align: center;
+  border: 4px solid rgb(255, 171, 171);
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h5 {
+    text-align: center;
+}
+
+/*radovi*/
+
+#radovi {
+    font-size: 10vw;
+}
+
+
+#kolaz {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    margin: 3vw 20vw 3vw 20vw;
+}
+
+
+#zuca img{
+    margin: 0;
+    padding: 0;
+width: 100vw;
+}
+
+#fotosopcic {
+    overflow: scroll;
+}
+
+#zuca {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .preko {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }

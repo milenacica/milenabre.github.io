@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    overflow: hidden;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: black;
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+ul {
+    font-family: Arial, sans-serif;
+    list-style-type: none ;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 171, 171);
+}
+
+#nazad {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+#izvolte {
+    margin-top: 5% ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
